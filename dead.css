@@ -1,0 +1,33 @@
+.gimme_a_gun
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px; 
+    box-shadow:5px 5px 5px blue;
+}
+
+.gimme_a_knife
+{
+    font-size: 15px;
+    color: black;
+}
+
+.gimme_a_kill {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:blue;
+    line-height: 3;
+    text-align: center;
+}
+.mark {
+    color: red;
+}
+
+canvas
+{
+    border:5px solid blue;
+    border-radius:20px;
+   box-shadow: 5px 5px 5px 5px black;
+}
